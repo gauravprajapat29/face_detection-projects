@@ -1,3 +1,3 @@
 # machine-learning-projects
-This is Project  Auto Suggestion next word when you enter past data, like :  google keyboard
-In This project use nltk python library.
+This is Project  face detection using python
+In This project use Open CV python library.
